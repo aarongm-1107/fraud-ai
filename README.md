@@ -1,12 +1,3 @@
----
-title: Fraud Detection RL Environment
-emoji: 💳
-colorFrom: red
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 <div align="center">
 
 # 💳 Fraud Detection RL Environment
