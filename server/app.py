@@ -4,7 +4,8 @@ from tasks.easy import transactions as easy_transactions
 
 app = FastAPI(
     docs_url="/docs",
-    redoc_url=None
+    redoc_url=None,
+    openapi_url="/openapi.json"
 )
 
 GLOBAL_ENV = None
