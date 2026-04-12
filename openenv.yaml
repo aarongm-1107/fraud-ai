@@ -1,0 +1,3 @@
+name: fraud-detection-rl
+description: Fraud Detection RL Environment using FastAPI
+entrypoint: inference.py
